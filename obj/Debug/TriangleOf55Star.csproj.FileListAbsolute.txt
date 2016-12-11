@@ -1,0 +1,5 @@
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\TriangleOf55Star\TriangleOf55Star\bin\Debug\TriangleOf55Star.exe.config
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\TriangleOf55Star\TriangleOf55Star\bin\Debug\TriangleOf55Star.exe
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\TriangleOf55Star\TriangleOf55Star\bin\Debug\TriangleOf55Star.pdb
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\TriangleOf55Star\TriangleOf55Star\obj\Debug\TriangleOf55Star.exe
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\TriangleOf55Star\TriangleOf55Star\obj\Debug\TriangleOf55Star.pdb
